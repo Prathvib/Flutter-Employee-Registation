@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451176801741",
+    "project_id": "employeeregistry-2e0bd",
+    "storage_bucket": "employeeregistry-2e0bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451176801741:android:91df21be42f348dfc29084",
+        "android_client_info": {
+          "package_name": "com.example.employee_registry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCalAp6xSgBygNSPTaubgp1ReIoVnYcPqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
